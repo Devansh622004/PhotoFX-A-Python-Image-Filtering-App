@@ -5,7 +5,7 @@ A simple "Python GUI project" built with "Tkinter" and "PIL (Python Imaging Libr
 
 ## Features
 -  Upload any image (JPG, PNG, etc.)
--  Apply filters: Grayscale, Blur, Sharpen, Edge Detection
+-  Apply filters: Grayscale, Blur, Sharpen, Edge Detection etc.
 -  Preview images in real-time
 -  Save the filtered image
 -  Beginner-friendly Python project

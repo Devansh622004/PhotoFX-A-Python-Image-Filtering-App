@@ -13,15 +13,13 @@ A simple "Python GUI project" built with "Tkinter" and "PIL (Python Imaging Libr
 ---
 
 ## Screenshots
-(Add screenshots here once you run the project)  
 Example:  
-<img width="1919" height="1079" alt="Screenshot 2025-09-08 104518" src="https://github.com/user-attachments/assets/a517f874-7104-483f-9cb9-ee4c483fee7d" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-03 204642" src="https://github.com/user-attachments/assets/9b0771a3-35dd-46af-afc5-c96d2b688779" />
+<img width="1919" height="833" alt="Screenshot 2025-11-03 204856" src="https://github.com/user-attachments/assets/a19ac8de-77ab-4dde-b73d-5b111ce55ad9" />
+<img width="1919" height="832" alt="Screenshot 2025-11-03 204810" src="https://github.com/user-attachments/assets/9fcef57b-72ff-486e-83b1-a8a1237e0b7e" />
+<img width="1919" height="834" alt="Screenshot 2025-11-03 204953" src="https://github.com/user-attachments/assets/db5a9254-5a5f-4583-bc53-82a2f5c0112c" />
+<img width="1919" height="884" alt="Screenshot 2025-11-03 205209" src="https://github.com/user-attachments/assets/fc6b1e68-89cd-44fc-8e2d-ec05b9de7cca" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-08 104537" src="https://github.com/user-attachments/assets/6fec0db2-3739-4ab0-a2fa-bd5043a22de9" />
-
-<img width="1919" height="1079" alt="Screenshot 2025-09-08 104553" src="https://github.com/user-attachments/assets/438db824-dcc1-4df3-8886-a2b8e191919a" />
-
-<img width="1919" height="1079" alt="Screenshot 2025-09-08 104652" src="https://github.com/user-attachments/assets/ab486eec-5480-44c3-8f0c-dde0a1c6ea4a" />
 
 ---
 

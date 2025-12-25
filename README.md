@@ -1,3 +1,6 @@
+My Name is Devansh Vashisth.
+Explaination Video Link:- <https://youtu.be/AMWIxG33EA0>
+
 #  Image Filter Application  
 A simple "Python GUI project" built with "Tkinter" and "PIL (Python Imaging Library)" that allows users to apply different filters to images.  
 
